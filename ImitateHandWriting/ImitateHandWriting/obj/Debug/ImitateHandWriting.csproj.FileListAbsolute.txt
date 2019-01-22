@@ -1,0 +1,18 @@
+c:\users\pratik\documents\visual studio 2015\Projects\ImitateHandWriting\ImitateHandWriting\bin\Debug\ImitateHandWriting.exe.config
+c:\users\pratik\documents\visual studio 2015\Projects\ImitateHandWriting\ImitateHandWriting\bin\Debug\ImitateHandWriting.exe
+c:\users\pratik\documents\visual studio 2015\Projects\ImitateHandWriting\ImitateHandWriting\bin\Debug\ImitateHandWriting.pdb
+c:\users\pratik\documents\visual studio 2015\Projects\ImitateHandWriting\ImitateHandWriting\obj\Debug\ImitateHandWriting.csprojResolveAssemblyReference.cache
+c:\users\pratik\documents\visual studio 2015\Projects\ImitateHandWriting\ImitateHandWriting\obj\Debug\ImitateHandWriting.Form1.resources
+c:\users\pratik\documents\visual studio 2015\Projects\ImitateHandWriting\ImitateHandWriting\obj\Debug\ImitateHandWriting.Properties.Resources.resources
+c:\users\pratik\documents\visual studio 2015\Projects\ImitateHandWriting\ImitateHandWriting\obj\Debug\ImitateHandWriting.csproj.GenerateResource.Cache
+c:\users\pratik\documents\visual studio 2015\Projects\ImitateHandWriting\ImitateHandWriting\obj\Debug\ImitateHandWriting.exe
+c:\users\pratik\documents\visual studio 2015\Projects\ImitateHandWriting\ImitateHandWriting\obj\Debug\ImitateHandWriting.pdb
+D:\ImitateHandWriting\ImitateHandWriting\bin\Debug\ImitateHandWriting.exe.config
+D:\ImitateHandWriting\ImitateHandWriting\bin\Debug\ImitateHandWriting.exe
+D:\ImitateHandWriting\ImitateHandWriting\bin\Debug\ImitateHandWriting.pdb
+D:\ImitateHandWriting\ImitateHandWriting\obj\Debug\ImitateHandWriting.csprojResolveAssemblyReference.cache
+D:\ImitateHandWriting\ImitateHandWriting\obj\Debug\ImitateHandWriting.Form1.resources
+D:\ImitateHandWriting\ImitateHandWriting\obj\Debug\ImitateHandWriting.Properties.Resources.resources
+D:\ImitateHandWriting\ImitateHandWriting\obj\Debug\ImitateHandWriting.csproj.GenerateResource.Cache
+D:\ImitateHandWriting\ImitateHandWriting\obj\Debug\ImitateHandWriting.exe
+D:\ImitateHandWriting\ImitateHandWriting\obj\Debug\ImitateHandWriting.pdb
